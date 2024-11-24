@@ -1,3 +1,5 @@
+ Hi there, I'm Yassine Zoubairi 👋
+ 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
 </div>
@@ -7,9 +9,8 @@
     <img src="https://komarev.com/ghpvc/?username=Zoubar&style=for-the-badge&color=blue" alt="Profile Views"/>
   </p>
 </div>
-💫 About Me
- Hi there, I'm Yassine Zoubairi 👋
- 
+
+💫 About Me 
 🎓 Final year Software Engineering student at ISMAGI (RABAT)
 🌍 Based in Morocco, passionate about creating innovative solutions
 💻 Full Stack Developer with a strong foundation in both frontend and backend

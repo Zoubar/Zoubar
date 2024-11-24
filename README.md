@@ -49,8 +49,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
-  <!-- SQL Icon (using shields.io) -->
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
 </p>
 </details>
 

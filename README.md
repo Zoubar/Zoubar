@@ -26,17 +26,6 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 ---
 
 
-
-          
-<p align="center">
-    <i class="devicon-angularjs-plain colored"></i>
-    <img src="URL_to_AWS_icon" alt="AWS" width="40" height="40"/>
-    <img src="URL_to_Docker_icon" alt="Docker" width="40" height="40"/>
-    <!-- Add more icons here -->
-</p>
-
-
-
 ## 🚀 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark)
 ---

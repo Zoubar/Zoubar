@@ -53,9 +53,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
 </p>
 </details>
-<details>
-<br>
-</details>
+
 <!-- Alternative Layout with Badges -->
 <details>
 <summary>🛠️ Technology Stack (Alternative View)</summary>
@@ -75,10 +73,6 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 </details>
-<!-- Compact Table Layout -->
-<details>
-<br>
-</details>
 <summary>☁️ DevOps</summary>
 <br>
 <p align="center">
@@ -87,7 +81,6 @@
   </a>
 </p>
 </details>
-<details>
 <summary>🛠️ Tools & Others</summary>
 <br>
 <p align="center">

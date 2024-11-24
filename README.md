@@ -111,7 +111,7 @@
 javascriptCopyclass DailyRoutine {
     constructor() {
         this.current = {
-            learning: ['AWS', 'System Design', 'Microservices'],
+            learning: ['DevOps', 'Microservices'],
             reading: ['Clean Code', 'Design Patterns'],
             projects: {
                 inProgress: 'Building Portfolio',

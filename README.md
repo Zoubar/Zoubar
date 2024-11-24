@@ -97,22 +97,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact"/>
   <!-- GitHub Streak -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
-📌 Pinned Repositories
-<div align="center">
-  <a href="https://github.com/Zoubar/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Zoubar/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
+
 🎯 Current Focus
 javascriptCopyclass DailyRoutine {
     constructor() {

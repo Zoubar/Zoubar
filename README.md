@@ -1,5 +1,7 @@
 
-[](https://github.com/user-attachments/assets/b37f9ed6-c264-48c2-90dd-20418dfe7135](https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif))
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" />
+</div>
 
 
 🌍 **Based in Morocco** | 💻 **Passionate about Software and DevOps**  

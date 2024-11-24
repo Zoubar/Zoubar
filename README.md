@@ -64,7 +64,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,sonarqube,kafka,gitlab" />
+    <img src="https://skillicons.dev/icons?i=docker,SonarQube,kafka,gitlab" />
   </a>
 </p>
 </details>
@@ -73,7 +73,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
   </a>
 </p>
 </details>

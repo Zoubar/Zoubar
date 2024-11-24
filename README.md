@@ -97,23 +97,42 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
-🎯 Current Focus
-javascriptCopyclass DailyRoutine {
-    constructor() {
-        this.current = {
-            learning: ['DevOps', 'Microservices'],
-            reading: ['Clean Code', 'Design Patterns'],
-            projects: {
-                inProgress: 'Building Portfolio',
-                upcoming: 'Open Source Contributions'
-            }
-        };
-    }
+## 🎯 Current Focus
 
-    get motivation() {
-        return '🚀 Building something amazing!';
+```javascript
+const devJourney = {
+    currentlyLearning: {
+        technologies: ['DevOps', 'Microservices', 'Cloud Architecture'],
+        concepts: ['System Design', 'Software Architecture']
+    },
+    projectsInProgress: [
+        {
+            name: 'Portfolio Website',
+            stack: ['React', 'Node.js', 'MongoDB'],
+            status: '🚧 70% Complete'
+        },
+        {
+            name: 'Open Source Contributions',
+            focus: ['Documentation', 'Bug Fixes'],
+            status: '🌱 Just Started'
+        }
+    ],
+    roadmap2024: {
+        Q1: 'Master Container Orchestration',
+        Q2: 'Build Microservices Architecture',
+        Q3: 'Cloud Certification',
+        Q4: 'Contributing to Major Open Source Projects'
+    },
+    dailyRoutine: () => {
+        return [
+            '☀️ Code Review',
+            '💻 Project Development',
+            '📚 Learning New Tech',
+            '🤝 Collaboration',
+            '🌙 Side Projects'
+        ];
     }
-}
+};
 <!-- Dev Quote -->
 🤝 Let's Connect!
 <div align="center">

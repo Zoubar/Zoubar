@@ -96,10 +96,6 @@
   <!-- GitHub Streak -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
 🎯 Current Focus
 javascriptCopyclass DailyRoutine {

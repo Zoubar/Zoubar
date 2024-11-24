@@ -13,7 +13,6 @@
 💻 Full Stack Developer with a strong foundation in both frontend and backend
 🚀 DevOps enthusiast, always exploring new technologies
 🌱 Currently learning Cloud Architecture and Microservices
-, Looking to collaborate on open source projects
 💡 Quick learner with a problem-solving mindset
 
 🛠️ Technical Skills

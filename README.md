@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
 </div>
-Hi there, I'm Yassine Zoubairi 👋
-Show Image
   <p align="center">
     <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -10,7 +8,8 @@ Show Image
   </p>
 </div>
 💫 About Me
-
+ Hi there, I'm Yassine Zoubairi 👋
+ 
 🎓 Final year Software Engineering student at ISMAGI (RABAT)
 🌍 Based in Morocco, passionate about creating innovative solutions
 💻 Full Stack Developer with a strong foundation in both frontend and backend

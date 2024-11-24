@@ -36,8 +36,8 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 ---
 
 ## 📊 Weekly Coding Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 
 ----

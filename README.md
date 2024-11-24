@@ -1,14 +1,14 @@
-# Hi there 👋, I'm **Yassine Zoubairi**  
+# Hi there 👋, 
 
 🌍 **Based in Morocco** | 💻 **Passionate about Software and DevOps**  
 
 ---
-
-
 ## 🌟 About Me
-🎯 Passionate about building efficient systems and crafting robust software solutions.  
-🚀 Currently exploring advanced DevOps practices and enhancing full-stack capabilities.  
-📚 Continuously learning and contributing to impactful projects.  
+
+Hi I'm Lonz 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions.
+🎓 Student Software Engineer last year of graduation at ISMAGI.
+🧠 I'm a quick learner and love to learn new technologies.
+💪 Proficient in both front-end and back-end, bringing creative ideas to code.
 
 ---
 

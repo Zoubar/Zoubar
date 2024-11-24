@@ -27,16 +27,12 @@
   </picture>
 </div>
 💫 About Me
-typescriptCopyconst yassine = {
-    location: "Rabat, Morocco 🌍",
-    education: "Software Engineering @ ISMAGI 🎓",
-    fields: ["Full Stack Development", "DevOps", "Cloud Architecture"],
-    currentlyLearning: ["Microservices", "AWS", "Kubernetes"],
-    askMeAbout: ["Web Dev", "Tech", "DevOps", "Coffee ☕"],
-    hobbies: ["Coding", "Reading", "Problem Solving"]
-};
+## 🌟 About Me
+Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about creating solutions.
+🎓 Student Software Engineer last year of graduation at ISMAGI (RABAT).
+🧠 I'm a quick learner and love to learn new technologies.
+💪 Proficient in both front-end and back-end, bringing creative ideas to code.
 🛠️ Tech Stack
-<details>
 <summary>💻 Programming Languages</summary>
 <br>
 <p align="center">

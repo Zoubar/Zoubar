@@ -28,7 +28,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python,css,html" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
   </a>
 </p>
 </details>
@@ -37,7 +37,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,materialui,redux" />
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind" />
   </a>
 </p>
 </details>
@@ -46,7 +46,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+    <img src="https://skillicons.dev/icons?i=spring,laravel" />
   </a>
 </p>
 </details>
@@ -55,7 +55,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+    <img src="https://skillicons.dev/icons?i=sql" />
   </a>
 </p>
 </details>
@@ -64,7 +64,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,gitlab,grafana" />
+    <img src="https://skillicons.dev/icons?i=docker,sonarqube,kafka,gitlab" />
   </a>
 </p>
 </details>

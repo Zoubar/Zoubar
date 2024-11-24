@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
   <!-- Animated Text -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C88F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Zoubairi;Full+Stack+Developer;DevOps+Engineer;Software+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C88F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Zoubairi;Software+Engineering+Student" alt="Typing SVG" />
   </h1>
   <!-- Animated Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
@@ -26,9 +26,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-💫 About Me
-## 🌟 About Me
-Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about creating solutions.
+💫 About Me 
+  I'm a full stack developer who's passionate about creating solutions.
 🎓 Student Software Engineer last year of graduation at ISMAGI (RABAT).
 🧠 I'm a quick learner and love to learn new technologies.
 💪 Proficient in both front-end and back-end, bringing creative ideas to code.

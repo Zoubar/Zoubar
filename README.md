@@ -47,7 +47,7 @@
 <p align="center">
   <!-- Database Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,oracle" />
   </a>
   <!-- SQL Icon (using shields.io) -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
@@ -56,14 +56,6 @@
 <details>
 <summary>☁️ DevOps & Tools</summary>
 <br>
-<p align="center">
-  <!-- DevOps Tools from skillicons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,kafka" />
-  </a>
-  <!-- SonarQube Icon (using shields.io) -->
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-</p>
 </details>
 <!-- Alternative Layout with Badges -->
 <details>

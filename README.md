@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
   <!-- Animated Text -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C88F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Yassine+Zoubairi;Software+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2C88F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'mYassineZoubairi;Software+Engineering+Student" alt="Typing SVG" />
   </h1>
   <!-- Animated Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>

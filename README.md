@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
 </div>
   <p align="center">
@@ -13,7 +13,7 @@
 💻 Full Stack Developer with a strong foundation in both frontend and backend
 🚀 DevOps enthusiast, always exploring new technologies
 🌱 Currently learning Cloud Architecture and Microservices
-👯 Looking to collaborate on open source projects
+, Looking to collaborate on open source projects
 💡 Quick learner with a problem-solving mindset
 
 🛠️ Technical Skills

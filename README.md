@@ -26,8 +26,10 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 ---
 
 
+
+          
 <p align="center">
-    <img src="URL_to_Angular_icon" alt="Angular" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
     <img src="URL_to_AWS_icon" alt="AWS" width="40" height="40"/>
     <img src="URL_to_Docker_icon" alt="Docker" width="40" height="40"/>
     <!-- Add more icons here -->

@@ -1,4 +1,4 @@
-![350764247-5288ff42-7ecf-4e19-a28c-2d0de829e729](https://github.com/user-attachments/assets/b37f9ed6-c264-48c2-90dd-20418dfe7135)
+aaaa![350764247-5288ff42-7ecf-4e19-a28c-2d0de829e729](https://github.com/user-attachments/assets/b37f9ed6-c264-48c2-90dd-20418dfe7135)
 
 
 🌍 **Based in Morocco** | 💻 **Passionate about Software and DevOps**  
@@ -41,10 +41,6 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 
 ## 📊 GitHub Stats
 
-### Top Languages by Repo
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark&count_private=true)
 
-### Top Languages by Commit
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 

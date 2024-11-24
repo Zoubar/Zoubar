@@ -39,4 +39,12 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 - **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)  
 - 🌐 **Portfolio Website:** Coming Soon  
 
+## 📊 GitHub Stats
+
+### Top Languages by Repo
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)
+
+### Top Languages by Commit
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 

@@ -121,7 +121,7 @@ javascriptCopyclass DailyRoutine {
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:yassinezoubairi7@example.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
   &nbsp;&nbsp;

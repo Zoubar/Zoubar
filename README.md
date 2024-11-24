@@ -35,12 +35,14 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark)
 ---
 
-## 📫 Reach Me At:
-- **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)  
-- 🌐 **Portfolio Website:** Coming Soon  
-
 ## 📊 GitHub Stats
 
 ![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark&count_private=true)
+
+----
+
+## 📫 Reach Me At:
+- **LinkedIn:** [Yassine Zoubairi](https://www.linkedin.com/in/yassine-zoubairi-390b9b268/)  
+- 🌐 **Portfolio Website:** Coming Soon  
 
 

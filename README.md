@@ -6,20 +6,27 @@
   </h1>
   <!-- Animated Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-  <!-- Social Badges -->
-  <div>
+  <!-- Profile Views and Social Badges -->
+  <p align="center">
     <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Zoubar&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </div>
+    <img src="https://komarev.com/ghpvc/?username=Zoubar&style=for-the-badge&color=blue" alt=""/>
+    <a href="https://github.com/Zoubar?tab=followers">
+      <img src="https://img.shields.io/github/followers/Zoubar?style=for-the-badge&color=blue" alt=""/>
+    </a>
+  </p>
   <!-- Animated Snake -->
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-🚀 Quick Overview
+💫 About Me
 typescriptCopyconst yassine = {
     location: "Rabat, Morocco 🌍",
     education: "Software Engineering @ ISMAGI 🎓",
@@ -28,85 +35,127 @@ typescriptCopyconst yassine = {
     askMeAbout: ["Web Dev", "Tech", "DevOps", "Coffee ☕"],
     hobbies: ["Coding", "Reading", "Problem Solving"]
 };
+🛠️ Tech Stack
 <details>
-<summary>🛠️ Tech Stack</summary>
-<div align="center">
-CategoryTechnologiesFrontend DevelopmentShow Image Show Image Show ImageBackend DevelopmentShow Image Show ImageDatabaseShow Image Show ImageDevOpsShow Image Show Image Show ImageTestingShow Image Show ImageOthersShow Image Show Image
-</div>
+<summary>💻 Programming Languages</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python,css,html" />
+  </a>
+</p>
 </details>
 <details>
-<summary>📊 GitHub Analytics</summary>
+<summary>🎨 Frontend Development</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind,materialui,redux" />
+  </a>
+</p>
+</details>
+<details>
+<summary>⚙️ Backend Development</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate" />
+  </a>
+</p>
+</details>
+<details>
+<summary>🗄️ Databases</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+  </a>
+</p>
+</details>
+<details>
+<summary>☁️ DevOps & Cloud</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,gitlab,grafana" />
+  </a>
+</p>
+</details>
+<details>
+<summary>🛠️ Tools & Others</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+  </a>
+</p>
+</details>
+📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&langs_count=7&theme=tokyonight"/>
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"/>
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact"/>
   <!-- GitHub Streak -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight" alt="GitHub Streak"/>
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&theme=tokyo-night" width="100%"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" width="100%"/>
 </div>
-</details>
-<details>
-<summary>🏆 GitHub Trophies</summary>
+🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
-</details>
-<!-- Animated Quote -->
+📌 Pinned Repositories
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <a href="https://github.com/Zoubar/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Zoubar/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </div>
-<!-- Current Status -->
-javascriptCopy// Current Status
-class Life {
+🎯 Current Focus
+javascriptCopyclass DailyRoutine {
     constructor() {
-        this.currentStatus = {
-            studying: true,
-            coding: true,
-            caffeineLevel: "High ☕",
-            listeningTo: "Lofi Coding Mix 🎵",
-            challenge: "100 Days of Code"
+        this.current = {
+            learning: ['AWS', 'System Design', 'Microservices'],
+            reading: ['Clean Code', 'Design Patterns'],
+            projects: {
+                inProgress: 'Building Portfolio',
+                upcoming: 'Open Source Contributions'
+            }
         };
     }
 
-    while(alive) {
-        eat();
-        sleep();
-        code();
-        repeat();
+    get motivation() {
+        return '🚀 Building something amazing!';
     }
 }
-<!-- Animated Footer -->
+<!-- Dev Quote -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-<!-- Visitors Count -->
+🤝 Let's Connect!
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Zoubar/count.svg" alt="Visitor Count"/>
-</div>
-<!-- Connect Section -->
-<h2 align="center">🤝 Let's Connect!</h2>
-<p align="center">
   <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-</p>
-<!-- Fun Easter Egg -->
-<details>
-<summary>🎮 Fun Facts</summary>
-<div align="center">
-javascriptCopy// My Daily Routine
-if (coffeeLevel < 50) {
-    refillCoffee();
-} else {
-    writeCode();
-}
-
-🎯 2024 Goals: Contribute to Open Source
-🎮 Fun fact: I debug with console.log
-💭 Motto: "Code, Coffee, Repeat"
-
+  &nbsp;&nbsp;
+  <a href="https://github.com/Zoubar">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
 </div>
-</details>
+<!-- Profile 3D Contrib -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-south-season-animate.svg">
+    <img alt="3d contrib" src="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-night-rainbow.svg">
+  </picture>
+</div>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

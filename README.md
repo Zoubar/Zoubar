@@ -54,7 +54,6 @@
 </p>
 </details>
 <details>
-<summary>☁️ DevOps & Tools</summary>
 <br>
 </details>
 <!-- Alternative Layout with Badges -->
@@ -78,17 +77,13 @@
 </details>
 <!-- Compact Table Layout -->
 <details>
-<summary>📊 Skills Overview Table</summary>
 <br>
-<div align="center">
-CategoryTechnologiesDatabasesShow Image Show Image Show Image Show ImageDevOpsShow Image Show Image Show Image Show Image Show Image
-</div>
 </details>
 <summary>☁️ DevOps</summary>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,SonarQube,kafka,gitlab" />
+    <img src="https://skillicons.dev/icons?i=docker,kafka,gitlab" />
   </a>
 </p>
 </details>

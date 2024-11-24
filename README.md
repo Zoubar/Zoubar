@@ -33,12 +33,6 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 
 ## 🚀 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=dark)
----
-
-## 📊 Weekly Coding Breakdown
-START_SECTION:waka
-END_SECTION:waka
-
 
 ----
 

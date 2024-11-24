@@ -145,12 +145,5 @@ javascriptCopyclass DailyRoutine {
   </a>
 </div>
 <!-- Profile 3D Contrib -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-south-season-animate.svg">
-    <img alt="3d contrib" src="https://raw.githubusercontent.com/Zoubar/Zoubar/profile-3d-contrib/profile-night-rainbow.svg">
-  </picture>
-</div>
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

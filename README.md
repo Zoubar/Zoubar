@@ -14,14 +14,19 @@ Hi I'm Zoubairi Yassine 👋 I'm a full stack developer who's passionate about c
 ---
 
 ## 🛠️ Tools & Technologies I Work With:
+|----------------------------------------------------------------------|
 | **Category**    | **Tools**                                          |
-|------------------|---------------------------------------------------|
+|-----------------|----------------------------------------------------|
 | **Languages**   | Java, JavaScript, TypeScript                       |
 | **Frontend**    | AngularJS, ReactJS                                 |
 | **Backend**     | Spring Boot                                        |
 | **Database**    | SQL                                                |
 | **DevOps**      | Docker, Kubernetes, Kafka, SonarQube               |
 | **VCS**         | Git                                                |
+| **Testing API** | Postman                                            |
+| **UT**          | Mockito , JUnit                                    |
+| **Anaylse**     | UML , Merise                                       |
+|----------------------------------------------------------------------|
 
 ---
 

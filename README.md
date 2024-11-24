@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
   <!-- Animated Text -->
 
-  <!-- Animated Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
   <!-- Profile Views and Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">

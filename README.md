@@ -31,6 +31,16 @@
 </p>
 </details>
 <details>
+<summary>📊 Analysis & Conception</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=uml,visualparadigm" />
+  </a>
+</p>
+</details>
+
+<details>
 <summary>🗄️ Backend Development</summary>
 <br>
 <p align="center">

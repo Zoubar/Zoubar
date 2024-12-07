@@ -1,6 +1,6 @@
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="Description of GIF" width="300px" />
-
   <p align="center">
     <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -14,7 +14,6 @@
     </a>
   </p>
 </div>
-
 💫 About Me 
   I'm a full stack developer who's passionate about creating solutions.
 🎓  Software Engineer Student at the last year of graduation at ISMAGI (RABAT).
@@ -25,10 +24,9 @@
 <details>
 <summary>💻 Programming Languages</summary>
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=diagrams" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+  </a>
 </p>
 </details>
 <details>
@@ -58,7 +56,6 @@
   </a>
 </p>
 </details>
-
 <details>
 <summary>🛠️ Technology Stack (Alternative View)</summary>
 <br>
@@ -88,4 +85,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
-

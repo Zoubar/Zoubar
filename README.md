@@ -64,15 +64,6 @@
 </p>
 </details>
 <details>
-<summary>☁️ DevOps</summary>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kafka,gitlab" />
-  </a>
-</p>
-</details>
-<details>
 <summary>🛠️ Tools & Others</summary>
 <br>
 <p align="center">

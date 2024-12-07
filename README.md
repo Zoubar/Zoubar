@@ -58,7 +58,7 @@
 </p>
 </details>
 <details>
-<summary>🛠️ Technology Stack (Alternative View)</summary>
+<summary>🛠️ Technology Stack DevOps (Alternative View)</summary>
 <br>
 <p align="center">
   <br/>

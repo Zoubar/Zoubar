@@ -70,7 +70,6 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  <img width="49%" src="https://activity-graph.herokuapp.com/graph?username=Zoubar&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ## 🌟 Featured Projects

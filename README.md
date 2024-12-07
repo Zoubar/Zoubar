@@ -11,11 +11,14 @@
   <a href="mailto:yassinezoubairi7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&animation=bounce"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Zoubar&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30&animation=pulse" alt="WhatsApp Contact"/>
+  </a>
   <a href="https://github.com/Zoubar?tab=followers">
     <img src="https://img.shields.io/github/followers/Zoubar?style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
 </div>
+
 
 ## 💫 About Me
 

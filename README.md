@@ -11,7 +11,7 @@
   <a href="mailto:yassinezoubairi7@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&animation=bounce"/>
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+  <a href="https://wa.me/212624497376?text=Hello!%20I%20would%20like%20to%20connect%20with%20you." target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30&animation=pulse" alt="WhatsApp Contact"/>
   </a>
   <a href="https://github.com/Zoubar?tab=followers">

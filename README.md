@@ -1,4 +1,4 @@
-# 👋 Yassine Zoubairi | Full Stack Developer
+                                                            # 👋 Yassine Zoubairi | Full Stack Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yassine%20Zoubairi&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
@@ -85,4 +85,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-*Crafted with  by Yassine Zoubairi*
+*Crafted by Yassine Zoubairi*

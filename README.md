@@ -25,21 +25,12 @@
 <details>
 <summary>💻 Programming Languages</summary>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
-  </a>
-</p>
-</details>
-<details>
-<summary>📊 Analysis & Conception</summary>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=uml,visualparadigm" />
-  </a>
-</p>
-</details>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=diagrams" />
+</a>
 
+</p>
+</details>
 <details>
 <summary>🗄️ Backend Development</summary>
 <br>

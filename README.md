@@ -62,9 +62,6 @@
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>

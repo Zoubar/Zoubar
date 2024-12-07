@@ -1,135 +1,87 @@
-import React, { useState, useEffect } from 'react';
-import { motion } from 'framer-motion';
-import { Camera, Code, Database, Server, Layout, Terminal } from 'lucide-react';
+                                                 👋 Yassine Zoubairi | Full Stack Developer
 
-const AnimatedProfileReadme = () => {
-  const [isAnimating, setIsAnimating] = useState(true);
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yassine%20Zoubairi&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
+</div>
 
-  const techSections = [
-    {
-      title: '💻 Programming Languages',
-      icons: [
-        { name: 'JavaScript', color: 'text-yellow-500', icon: <Code /> },
-        { name: 'Python', color: 'text-blue-500', icon: <Code /> },
-        { name: 'TypeScript', color: 'text-blue-700', icon: <Code /> }
-      ]
-    },
-    {
-      title: '🗄️ Backend Mastery',
-      icons: [
-        { name: 'Node.js', color: 'text-green-600', icon: <Server /> },
-        { name: 'Express', color: 'text-gray-700', icon: <Server /> },
-        { name: 'Django', color: 'text-green-800', icon: <Server /> }
-      ]
-    },
-    {
-      title: '🎨 Frontend Craftsmanship',
-      icons: [
-        { name: 'React', color: 'text-blue-400', icon: <Layout /> },
-        { name: 'Vue.js', color: 'text-green-500', icon: <Layout /> },
-        { name: 'Tailwind CSS', color: 'text-blue-600', icon: <Layout /> }
-      ]
-    }
-  ];
+<div align="center">
+  <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&animation=pulse"/>
+  </a>
+  <a href="mailto:yassinezoubairi7@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&animation=bounce"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zoubar&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <a href="https://github.com/Zoubar?tab=followers">
+    <img src="https://img.shields.io/github/followers/Zoubar?style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+</div>
 
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: { 
-      opacity: 1,
-      transition: {
-        delayChildren: 0.3,
-        staggerChildren: 0.2
-      }
-    }
-  };
+## 💫 About Me
 
-  const itemVariants = {
-    hidden: { y: 20, opacity: 0 },
-    visible: {
-      y: 0,
-      opacity: 1,
-      transition: {
-        type: "spring",
-        damping: 12,
-        stiffness: 200
-      }
-    }
-  };
+🚀 Passionate Full Stack Developer | 🎓 Software Engineering Student at ISMAGI (RABAT)
+- 💻 Transforming creative ideas into innovative code solutions
+- 🧠 Rapid learner with an insatiable curiosity for emerging technologies
+- 💪 Expertise spanning both front-end and back-end development
 
-  return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-blue-900 text-white p-8">
-      <motion.div 
-        initial="hidden"
-        animate="visible"
-        variants={containerVariants}
-        className="max-w-4xl mx-auto"
-      >
-        <motion.header 
-          variants={itemVariants}
-          className="text-center mb-12"
-        >
-          <h1 className="text-5xl font-bold mb-4 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-            Yassine Zoubairi
-          </h1>
-          <p className="text-xl text-gray-300">
-            🚀 Full Stack Developer | 🎓 Software Engineering Student
-          </p>
-        </motion.header>
+## 🛠️ Tech Arsenal
 
-        <motion.section 
-          variants={itemVariants}
-          className="mb-12 bg-white/10 backdrop-blur-lg rounded-xl p-6"
-        >
-          <h2 className="text-3xl font-semibold mb-6 text-center">
-            💫 About Me
-          </h2>
-          <p className="text-center text-gray-200">
-            Passionate developer transforming creative ideas into innovative code solutions. 
-            Rapid learner with an insatiable curiosity for emerging technologies.
-          </p>
-        </motion.section>
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python&perline=4&theme=dark" alt="Programming Languages"/>
+</p>
 
-        <motion.section 
-          variants={itemVariants}
-          className="grid md:grid-cols-3 gap-6"
-        >
-          {techSections.map((section, index) => (
-            <motion.div 
-              key={index}
-              variants={itemVariants}
-              className="bg-white/10 backdrop-blur-lg rounded-xl p-6 transform transition-all duration-300 hover:scale-105"
-            >
-              <h3 className="text-2xl font-semibold mb-4 text-center">
-                {section.title}
-              </h3>
-              <div className="flex justify-around">
-                {section.icons.map((tech, techIndex) => (
-                  <motion.div 
-                    key={techIndex}
-                    whileHover={{ scale: 1.2, rotate: 360 }}
-                    whileTap={{ scale: 0.9 }}
-                    className="flex flex-col items-center"
-                  >
-                    <div className={`text-4xl ${tech.color}`}>
-                      {tech.icon}
-                    </div>
-                    <span className="text-sm mt-2">{tech.name}</span>
-                  </motion.div>
-                ))}
-              </div>
-            </motion.div>
-          ))}
-        </motion.section>
+### 🗄️ Backend Mastery
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,laravel&perline=2&theme=dark" alt="Backend Technologies"/>
+</p>
 
-        <motion.footer 
-          variants={itemVariants}
-          className="text-center mt-12 text-gray-400"
-        >
-          <p>Crafted with 💖 by Yassine Zoubairi</p>
-        </motion.footer>
-      </motion.div>
-    </div>
-  );
-};
+### 🎨 Frontend Craftsmanship
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&perline=4&theme=dark" alt="Frontend Technologies"/>
+</p>
 
-export default AnimatedProfileReadme;
+### 🗄️ Database Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2&theme=dark" alt="Database Technologies"/>
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5&theme=dark" alt="Development Tools"/>
+</p>
+
+## 📊 GitHub Insights
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Zoubar/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=your-repo-name&theme=tokyonight" alt="Featured Project"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+</div>
+
+*Crafted by Yassine Zoubairi*

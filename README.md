@@ -43,7 +43,7 @@
 
 ### 🗄️ Database Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlserver,oracle&perline=4&theme=dark" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2&theme=dark" alt="Database Technologies"/>
 </p>
 
 ### 🛠️ DevOps & Tools
@@ -88,4 +88,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-*Crafted with ❤️ by Yassine Zoubairi*
+*Crafted with  by Yassine Zoubairi*

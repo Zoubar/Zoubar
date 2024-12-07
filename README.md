@@ -21,9 +21,9 @@
 🧠 I'm a quick learner and love to learn new technologies.
 💪 Proficient in both front-end and back-end, bringing creative ideas to code.
 🛠️ Tech Stack
-<summary>💻 Programming Languages</summary>
 <br>
 <details>
+<summary>💻 Programming Languages</summary>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,python" />

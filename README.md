@@ -27,11 +27,6 @@
 - 🧠 Rapid learner with an insatiable curiosity for emerging technologies
 - 💪 Expertise spanning both front-end and back-end development
 
-### 🚀 Fun Fact
-- I turned my *"Law License"* into a *"License to Code"*! 😉
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
@@ -68,35 +63,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5&theme=dark" alt="Development Tools"/>
 </p>
 
----
-
-## 🧙‍♂️ Productivity Hacks & Tips
-
-### ⚡ My Secret Coding Tricks
-- **Automate Everything:** Scripts are my best friends! I automate repetitive tasks like deployment and testing using CI/CD pipelines.
-- **Keyboard Ninja:** Mastering IDE shortcuts boosts my productivity by 3x. VS Code + IntelliJ + custom hotkeys = MAGIC! 🚀
-- **Powerful Debugging:** I rely on tools like Postman, Browser DevTools, and SonarQube for flawless debugging.
-
-### 🔥 Boost Your GitHub Profile
-- I craft visually appealing **Markdown files** to make my projects shine.
-- Use **GitHub Actions** to automate tasks, like testing or deploying builds directly from commits.
-- **Tip:** Keep your README interactive and updated with live badges.
-
-### 💡 Random Astuce
-- I use **custom aliases in Git** (`git co` for `checkout`, `git br` for `branch`) to save time.
-- My favorite `.gitconfig` snippet for color-coded diffs:
-  ```
-  [color]
-    ui = auto
-  [alias]
-    st = status
-    co = checkout
-    br = branch
-  ```
-
----
-
 ## 📊 GitHub Insights
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
@@ -107,8 +75,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
----
-
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -117,18 +83,8 @@
   </a>
 </div>
 
----
-
-## 🧙‍♂️ Life Outside Code
-
-- **🎮 Gamer Alert:** Love RPGs and tactical games.
-- **📚 Bookworm:** Reading "Clean Code" and "The Pragmatic Programmer" keeps my skills sharp.
-- **🌍 Traveler:** I find inspiration exploring new cultures. My favorite? France (so far!).
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-*Crafted by Yassine Zoubairi ✨*
+*Crafted by Yassine Zoubairi*

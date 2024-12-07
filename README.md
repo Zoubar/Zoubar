@@ -31,6 +31,15 @@
 </p>
 </details>
 <details>
+<summary>🗄️ Backend Development</summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel" />
+  </a>
+</p>
+</details>
+<details>
 <summary>🎨 Frontend Development</summary>
 <br>
 <p align="center">
@@ -39,7 +48,6 @@
   </a>
 </p>
 </details>
-
 <details>
 <summary>🗄️ Databases & SQL</summary>
 <br>
@@ -54,6 +62,9 @@
 <summary>🛠️ Technology Stack (Alternative View)</summary>
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>

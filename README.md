@@ -46,7 +46,7 @@
 
 ### 🗄️ Database Expertise
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=2&theme=dark" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle&perline=2&theme=dark" alt="Database Technologies"/>
 </p>
 
 ### 🛠️ DevOps & Tools

@@ -64,7 +64,6 @@
 
 ## 📊 GitHub Insights
 
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
@@ -73,6 +72,11 @@
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-Expert-green?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
+
 
 ## 🌟 Featured Projects
 

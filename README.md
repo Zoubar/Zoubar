@@ -81,14 +81,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=tokyonight"/>
 </div>
 
-<!-- Language Contribution -->
-### 💻 Language Contributions Breakdown
-
-- **Java**: Backend development with Spring Boot, advanced algorithms, and API services
-- **JavaScript**: Dynamic and interactive web development
-- **Python**: Data analysis, scripting, and automation
-- **TypeScript**: Strongly typed modern front-end solutions with Angular
-
 
 ## 🌟 Featured Projects
 

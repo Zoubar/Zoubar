@@ -70,13 +70,12 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <p><b>Java Usage: ~X%</b></p>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-green?style=for-the-badge&logo=java&logoColor=white"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
-
 
 ## 🌟 Featured Projects
 

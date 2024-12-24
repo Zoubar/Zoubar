@@ -69,9 +69,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
 </div>
 
-<div align="center">
-  <p><b>Java Usage: ~X%</b></p>
-</div>
+### Most Used Languages:
+- **Java**: 30.16%
+- **HTML**: 28.34%
+- **TypeScript**: 17.14%
+- **SCSS**: 12.42%
+- **CSS**: 10.62%
+- **JavaScript**: 1.09%
+- **Dockerfile**: 0.23%
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>

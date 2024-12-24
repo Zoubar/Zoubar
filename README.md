@@ -64,19 +64,11 @@
 
 ## 📊 GitHub Insights
 
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
 </div>
-
-### Most Used Languages:
-- **Java**: 30.16%
-- **HTML**: 28.34%
-- **TypeScript**: 17.14%
-- **SCSS**: 12.42%
-- **CSS**: 10.62%
-- **JavaScript**: 1.09%
-- **Dockerfile**: 0.23%
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
@@ -94,4 +86,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-*Crafted by Yassine Zoubairi*
+*Crafted by Yassine Zoubairi*i want to add also the statistics of java

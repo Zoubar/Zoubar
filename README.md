@@ -64,15 +64,31 @@
 
 ## 📊 GitHub Insights
 
-
 <div align="center">
+  <!-- Overall GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=10"/>
-</div>
-
-<div align="center">
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=20"/>
+  
+  <!-- Streak Stats -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
+
+## 🌟 Java Language Statistics
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubar&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=tokyonight"/>
+</div>
+
+<!-- Language Contribution -->
+### 💻 Language Contributions Breakdown
+
+- **Java**: Backend development with Spring Boot, advanced algorithms, and API services
+- **JavaScript**: Dynamic and interactive web development
+- **Python**: Data analysis, scripting, and automation
+- **TypeScript**: Strongly typed modern front-end solutions with Angular
+
 
 ## 🌟 Featured Projects
 

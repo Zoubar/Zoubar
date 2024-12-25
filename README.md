@@ -1,4 +1,4 @@
-👋 Yassine Zoubairi | Full Stack Developer
+                        👋 Yassine Zoubairi | Full Stack Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yassine%20Zoubairi&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
@@ -17,12 +17,8 @@
   <a href="https://github.com/Zoubar?tab=followers">
     <img src="https://img.shields.io/github/followers/Zoubar?style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
-  
-  <!-- Adding animated productivity metrics -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy Stats"/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&theme=tokyo-night" width="100%" alt="Activity Graph"/>
 </div>
+
 
 ## 💫 About Me
 
@@ -30,31 +26,72 @@
 - 💻 Transforming creative ideas into innovative code solutions
 - 🧠 Rapid learner with an insatiable curiosity for emerging technologies
 - 💪 Expertise spanning both front-end and back-end development
-- ⚡ Daily coding streak: <img src="https://wakatime.com/badge/user/Zoubar.svg" alt="Wakatime stats"/>
 
-[Previous content remains the same until Java Statistics section]
+## 🛠️ Tech Arsenal
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python&perline=4&theme=dark" alt="Programming Languages"/>
+</p>
+
+### 🗄️ Backend Mastery
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,laravel&perline=2&theme=dark" alt="Backend Technologies"/>
+</p>
+
+### 🎨 Frontend Craftsmanship
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&perline=4&theme=dark" alt="Frontend Technologies"/>
+</p>
+
+### 🗄️ Database Expertise
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&perline=2&theme=dark" alt="Database Technologies"/>
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5&theme=dark" alt="Development Tools"/>
+</p>
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <!-- Overall GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&include_all_commits=true"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=20"/>
+  
+  <!-- Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
 ## 🌟 Java Language Statistics
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubar&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=tokyonight"/>
-  
-  <!-- Adding detailed Java metrics -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zoubar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Java%20Coding%20Time" width="70%" alt="Java Coding Time"/>
-  
-  <!-- Adding contribution calendar -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Zoubar&theme=tokyonight&layout=compact" width="70%" alt="Contribution Calendar"/>
 </div>
 
-[Rest of the content remains the same]
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Zoubar/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=your-repo-name&theme=tokyonight" alt="Featured Project"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-<!-- Adding view counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zoubar&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-*Crafted by Yassine Zoubairi*
+*Crafted by Yassine Zoubairi*i want to add also the statistics of java

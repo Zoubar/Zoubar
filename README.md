@@ -1,4 +1,4 @@
-                                              👋 Yassine Zoubairi | Full Stack Developer
+👋 Yassine Zoubairi | Full Stack Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yassine%20Zoubairi&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/github/followers/Zoubar?style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
 </div>
-
 
 ## 💫 About Me
 
@@ -41,7 +40,7 @@
 
 ### 🎨 Frontend Craftsmanship
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,tailwind&perline=4&theme=dark" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,bootstrap,tailwind&perline=5&theme=dark" alt="Frontend Technologies"/>
 </p>
 
 ### 🗄️ Database Expertise
@@ -79,8 +78,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubar&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoubar&theme=tokyonight"/>
 </div>
-
 
 ## 🌟 Featured Projects
 
@@ -94,4 +93,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-*Crafted by Yassine Zoubairi*i want to add also the statistics of java
+*Crafted by Yassine Zoubairi*

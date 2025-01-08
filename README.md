@@ -35,7 +35,7 @@
 
 ### 🗄️ Backend Mastery
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,laravel&perline=2&theme=dark" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=spring&perline=2&theme=dark" alt="Backend Technologies"/>
 </p>
 
 ### 🎨 Frontend Craftsmanship

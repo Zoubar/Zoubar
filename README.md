@@ -71,7 +71,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=20"/>
   
   <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zoubar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ## 🌟 Java Language Statistics

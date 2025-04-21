@@ -21,7 +21,8 @@
 
 ## 💫 About Me
 
-🚀 Passionate Full Stack Developer | 🎓 Software Engineering Student at ISMAGI (RABAT)
+🚀 Passionate Full Stack Developer | 🎓 Software Engineering 
+
 - 💻 Transforming creative ideas into innovative code solutions
 - 🧠 Rapid learner with an insatiable curiosity for emerging technologies
 - 💪 Expertise spanning both front-end and back-end development

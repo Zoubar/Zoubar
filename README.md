@@ -101,7 +101,7 @@
 
 ### 🧠 Backend Frameworks & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=spring,laravel&theme=dark"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
 </div>

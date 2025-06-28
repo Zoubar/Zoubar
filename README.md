@@ -126,7 +126,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,&theme=dark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>

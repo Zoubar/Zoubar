@@ -121,14 +121,14 @@
 
 ### 🗄️ Database Management Systems
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
-### ☁️ Cloud & DevOps
+### ☁️ DevOps & OS
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,&theme=dark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </div>

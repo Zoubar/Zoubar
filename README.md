@@ -96,7 +96,7 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,R,C,PHP&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,r,c,php&theme=dark"/>
 </div>
 
 ### 🧠 Backend Frameworks & Technologies

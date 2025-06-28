@@ -1,4 +1,4 @@
-                                              # 👋 Yassine Zoubairi | Full Stack Developer
+# 👋 Yassine Zoubairi | Full Stack Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Yassine%20Zoubairi&fontSize=65&animation=fadeIn&fontAlignY=40" width="100%"/>
@@ -102,7 +102,7 @@
 ### 🧠 Backend Frameworks & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,laravel&theme=dark"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
   <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
 </div>
 
@@ -126,9 +126,9 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
-### ☁️ DevOps
+### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=dark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </div>

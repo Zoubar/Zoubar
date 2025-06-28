@@ -183,15 +183,6 @@
 </div>
 
 
-
----
-
-## 📈 Wakatime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zoubar&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect!

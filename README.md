@@ -172,17 +172,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoubar&theme=tokyonight&utcOffset=1"/>
 </div>
 
-
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-
 ---
 
 ## 🤝 Let's Connect!

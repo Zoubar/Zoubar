@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Specialist;Software+Engineer;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/yassine-zoubairi-390b9b268/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -19,74 +23,135 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zoubar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 ---
 
 ## 💫 About Me
 
-🚀 Passionate Full Stack Developer | 🎓 Software Engineer
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🚀 **Passionate Full Stack Developer** | 🎓 **Software Engineer**
 
 - 💻 Turning complex ideas into elegant digital solutions  
 - ⚙️ Backend-focused but love building clean UIs  
 - 📈 Committed to performance, scalability, and clean code  
 - 🎯 Always learning cutting-edge tools in software engineering
+- 🌱 Currently exploring **Microservices Architecture** and **Cloud Computing**
+- 💬 Ask me about **Java, Spring Boot, React, and System Design**
+- ⚡ Fun fact: I debug in my sleep! 😴
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Multi%20Language-🏆-purple?style=for-the-badge" alt="Multi Language"/>
+        <br><b>Rainbow Lang User</b><br>15pt
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Joined%202020-🏆-blue?style=for-the-badge" alt="Joined 2020"/>
+        <br><b>Everything started...</b><br>Joined 2020
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Commits-🏆-green?style=for-the-badge" alt="Commits"/>
+        <br><b>Hyper Committer</b><br>438pt
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repositories-🏆-orange?style=for-the-badge" alt="Repositories"/>
+        <br><b>Hyper Repo Creator</b><br>31pt
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Experience-🏆-red?style=for-the-badge" alt="Experience"/>
+        <br><b>Experienced Dev</b><br>19pt
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge" alt="Stars"/>
+        <br><b>First Star</b><br>7pt
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Followers-👥-pink?style=for-the-badge" alt="Followers"/>
+        <br><b>First Friend</b><br>5pt
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Pull%20Request-🔄-cyan?style=for-the-badge" alt="Pull Request"/>
+        <br><b>First Pull</b><br>4pt
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 💼 Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark"/>
-</p>
+</div>
 
-### 🧠 Backend Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
-</p>
+### 🧠 Backend Frameworks & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
+</div>
 
 ### 🎨 Frontend Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap&theme=dark"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,sass&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui&theme=dark"/>
+</div>
 
 ### 📱 Mobile Development
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
 
 ### 🗄️ Database Management Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+</div>
 
-### ☁️ Distributed Systems & OS
-<p align="center">
+### ☁️ Cloud & DevOps
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=dark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-</p>
-
-### 🛠 DevOps & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+</div>
 
-### ⚙️ Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"/>
-</p>
+### 🛠 Development Tools & Version Control
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman&theme=dark"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae"/>
 </div>
 
 ---
@@ -99,12 +164,16 @@
 
 ---
 
-## 🧠 Most Used Technologies
+## 🧠 Development Insights
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubar&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=tokyonight"/>
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoubar&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoubar&theme=tokyonight&utcOffset=1"/>
 </div>
 
 ---
@@ -112,12 +181,57 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Zoubar/YOUR_PROJECT_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=YOUR_PROJECT_NAME&theme=tokyonight"/>
+  <a href="https://github.com/Zoubar/spring-microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=spring-microservices&theme=tokyonight&hide_border=true"/>
   </a>
-  <a href="https://github.com/Zoubar/YOUR_OTHER_PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=YOUR_OTHER_PROJECT&theme=tokyonight"/>
+  <a href="https://github.com/Zoubar/react-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=react-dashboard&theme=tokyonight&hide_border=true"/>
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Zoubar/fullstack-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=fullstack-ecommerce&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Zoubar/mobile-chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=mobile-chat-app&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zoubar/Zoubar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📈 Wakatime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zoubar&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>💼 Open for collaborations and exciting opportunities!</p>
+  <p>📧 Reach out for project discussions or just to say hi!</p>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
 
 ---
@@ -126,4 +240,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
 
-<p align="center">✨ *Crafted with care by Yassine Zoubairi* ✨</p>
+<p align="center">
+  ✨ <i>Crafted with passion and attention to detail by Yassine Zoubairi</i> ✨
+  <br>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+</p>

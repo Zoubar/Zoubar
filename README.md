@@ -23,15 +23,13 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zoubar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+
 
 ---
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Developer at work" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 🚀 **Passionate Full Stack Developer** | 🎓 **Software Engineer**
 
@@ -150,9 +148,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae"/>
-</div>
+
 
 ---
 
@@ -176,27 +172,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoubar&theme=tokyonight&utcOffset=1"/>
 </div>
 
----
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Zoubar/spring-microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=spring-microservices&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Zoubar/react-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=react-dashboard&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Zoubar/fullstack-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=fullstack-ecommerce&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Zoubar/mobile-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zoubar&repo=mobile-chat-app&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
 
 ---
 
@@ -206,13 +182,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zoubar/Zoubar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 

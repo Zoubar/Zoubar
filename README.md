@@ -128,7 +128,7 @@
 
 ### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=docker,&theme=dark"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </div>

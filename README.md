@@ -49,6 +49,12 @@
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap&theme=dark"/>
 </p>
 
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
+
 ### 🗄️ Database Management Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark"/>

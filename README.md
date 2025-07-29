@@ -149,17 +149,6 @@
 </div>
 
 
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zoubar&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🧠 Development Insights
 
 <div align="center">

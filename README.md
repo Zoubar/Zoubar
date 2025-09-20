@@ -29,16 +29,7 @@ const yassine = {
 ```
 
 </td>
-<td width="50%">
 
-### 📊 Quick Stats
-- 🏢 **4+ Years** of professional development
-- ⚡ **15+ Projects** successfully delivered
-- 🌍 **3 Languages** (Arabic, French, English)
-- 🎯 **Backend-focused** with full-stack capabilities
-- 📈 Always **performance-oriented**
-
-</td>
 </tr>
 </table>
 

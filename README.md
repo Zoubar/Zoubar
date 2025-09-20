@@ -1,5 +1,4 @@
-# 👋 Zoubairi Yassine Full Stack Developer | Software Engineer |
-BI & Data Analyst Enthusiast
+# 👋 Zoubairi Yassine Full Stack Developer | Software Engineer | BI & Data Analyst Enthusiast
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=Zoubairi%20Yassine&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50&desc=Crafting%20Digital%20Excellence%20•%20One%20Line%20at%20a%20Time&descAlignY=75&descSize=20" width="100%"/>

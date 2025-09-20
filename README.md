@@ -1,11 +1,11 @@
-# 🚀 Zoubairi Yassine | Full Stack Architect & Innovation Engineer
+# 🚀 Zoubairi Yassine | Software Engineer & Full Stack Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=300&section=header&text=Yassine%20Zoubairi&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=65&desc=Crafting%20Digital%20Excellence%20•%20One%20Line%20at%20a%20Time&descAlignY=85&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🏗️+Full+Stack+Architect+%7C+Backend+Specialist;🔥+Microservices+%26+Cloud+Native+Solutions;🚀+Performance+Optimization+%26+Scalability+Expert;💡+Turning+Complex+Problems+into+Elegant+Code" alt="Professional Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Software+Engineer+%7C+Full+Stack+Developer;🔧+Backend+Specialist+%26+System+Designer;🚀+Performance+Optimization+%26+Scalability+Expert;💡+Turning+Complex+Problems+into+Elegant+Code" alt="Professional Typing Animation" />
 </div>
 
 ---
@@ -19,12 +19,12 @@
 ### 🌟 What Drives Me
 ```typescript
 const yassine = {
-  role: "Full Stack Architect",
-  focus: ["Backend Systems", "Scalable Solutions"],
+  role: "Software Engineer & Full Stack Developer",
+  focus: ["Backend Systems", "Full Stack Solutions"],
   passion: "Building software that makes a difference",
   philosophy: "Clean code is not written by following rules, 
               but by deeply caring about craft",
-  currentGoal: "Mastering cloud-native architectures"
+  currentGoal: "Mastering modern development practices"
 }
 ```
 

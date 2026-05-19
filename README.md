@@ -140,27 +140,7 @@ const yassine: Developer = {
 
 ---
 
-## 🧠 Development Insights
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zoubar&theme=github_dark"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zoubar&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zoubar&theme=github_dark"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zoubar&theme=github_dark&utcOffset=1"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&area_color=58a6ff&hide_border=true&border_radius=10" alt="Activity Graph"/>
-</div>
 
 ---
 

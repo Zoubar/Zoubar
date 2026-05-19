@@ -48,11 +48,7 @@ const yassine: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zoubar&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-</div>
 
 ---
 
@@ -160,11 +156,6 @@ const yassine: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zoubar&bg_color=0d1117&color=58a6ff&line=3fb950&point=f78166&area=true&area_color=58a6ff&hide_border=true&border_radius=10" alt="Activity Graph"/>
-</div>
 
 ---
 

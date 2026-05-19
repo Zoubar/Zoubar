@@ -175,7 +175,6 @@ const yassine: Developer = {
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0d1117&height=120&section=footer" width="100%"/>
 
   <sub>✨ <i>Crafted with passion and precision by Yassine Zoubairi</i> ✨</sub>
 </div>

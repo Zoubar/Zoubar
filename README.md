@@ -129,7 +129,7 @@ const yassine: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoubar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&border_radius=10"/>
+
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_radius=10"/>
 </div>

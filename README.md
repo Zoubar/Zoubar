@@ -131,8 +131,7 @@ const yassine: Developer = {
 <div align="center">
 
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoubar&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_radius=10"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Zoubar&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&border_radius=10" alt="Streak Stats"/>

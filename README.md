@@ -96,12 +96,12 @@
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,r,c,php&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,r,c&theme=dark"/>
 </div>
 
 ### 🧠 Backend Frameworks & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,laravel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=kafka&theme=dark"/>
   <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microgenetics&logoColor=white"/>
 </div>
